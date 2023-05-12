@@ -1,0 +1,14 @@
+.firstC{
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+}
+#second{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: black;
+}
+
+body{
+    background-image: linear-gradient(to bottom, purple,pink,violet);
+}
